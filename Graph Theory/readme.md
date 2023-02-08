@@ -15,7 +15,7 @@
 
 - [ Implementations](https://docs.google.com/document/d/1seqHDgMtb0swyd9XkKH_9Deh7Fmv35YxI_dY6PJDNbA/edit)
 
-## Matirals in video :
+## Materials in video :
 
 - [Tasks](https://drive.google.com/file/d/1HxCc4Xf3s1xB3q4LMy575Plb8mBWCDgU/view?usp=sharing)
 
