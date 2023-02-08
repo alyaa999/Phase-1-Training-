@@ -8,5 +8,5 @@
 
 ## Problems:
 
--[n-Queen ](https://leetcode.com/problems/n-queens/)
+- [nQueen](https://leetcode.com/problems/n-queens/)
 
