@@ -1,4 +1,4 @@
-# Recursion 
+# Recursion & BackTracking 
 
 ## Video:
 
@@ -7,4 +7,6 @@
 
 
 ## Problems:
+
+-[n-Queen ](https://leetcode.com/problems/n-queens/)
 
