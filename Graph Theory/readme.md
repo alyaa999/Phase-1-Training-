@@ -19,3 +19,7 @@
 
 -[Tasks]
 
+## Notes in video :
+
+-[Notes you should read ](https://docs.google.com/document/d/1W3AJp1VXV8lvz7Fh8fPYbZeKCmkrFmbb/edit?usp=sharing&ouid=115765867620852499697&rtpof=true&sd=true)
+
