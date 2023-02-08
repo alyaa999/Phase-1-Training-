@@ -13,13 +13,13 @@
 
 ## codes :
 
--[ Implementations](https://docs.google.com/document/d/1seqHDgMtb0swyd9XkKH_9Deh7Fmv35YxI_dY6PJDNbA/edit)
+- [ Implementations](https://docs.google.com/document/d/1seqHDgMtb0swyd9XkKH_9Deh7Fmv35YxI_dY6PJDNbA/edit)
 
 ## Matirals in video :
 
--[Tasks](https://drive.google.com/file/d/1HxCc4Xf3s1xB3q4LMy575Plb8mBWCDgU/view?usp=sharing)
+- [Tasks](https://drive.google.com/file/d/1HxCc4Xf3s1xB3q4LMy575Plb8mBWCDgU/view?usp=sharing)
 
 ## Notes in video :
 
--[Notes you should read ](https://docs.google.com/document/d/1W3AJp1VXV8lvz7Fh8fPYbZeKCmkrFmbb/edit?usp=sharing&ouid=115765867620852499697&rtpof=true&sd=true)
+- [Notes you should read ](https://docs.google.com/document/d/1W3AJp1VXV8lvz7Fh8fPYbZeKCmkrFmbb/edit?usp=sharing&ouid=115765867620852499697&rtpof=true&sd=true)
 
